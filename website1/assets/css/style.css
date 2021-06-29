@@ -1,3 +1,14 @@
 body{
     background: #BDBDBD;
 }
+
+.color {
+  background: white;
+  width: 23%;
+  height: auto;
+}
+
+.color2 {
+  margin-top: 10px;
+  background: white;
+}
