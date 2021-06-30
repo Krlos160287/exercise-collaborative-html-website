@@ -2,6 +2,16 @@ body{
     background: #BDBDBD;
 }
 .rounded-circle{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
+    object-fit:fill;
+}
+.MyTagline{
+    background-image: url(https://vastphotos.com/files/uploads/photos/10401/high-resolution-new-york-city-skyline-l.jpg);
+    width: 1100px;
+    height: 400px;
+    background-size:1100px 500px;
+    background-repeat: no-repeat;
+    
+
 }
